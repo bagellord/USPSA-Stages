@@ -15,3 +15,5 @@ Best two on paper, steel must fall to score
 Start position: standing with both feet on either set of marks, outside the shooting area
 
 Pistol loaded and holstered, hands relaxed at sides. PCC shouldered and pointed at cone.
+
+Max trap is activated by the popper closest to it
