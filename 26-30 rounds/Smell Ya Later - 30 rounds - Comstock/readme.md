@@ -1,4 +1,4 @@
-![Hockey Stick](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Hockey%20Stick%20-%2029%20rounds%20-%20Comstock/Smell%20Ya%Later.PNG)
+![Smell Ya Later](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Smell%20Ya%20Later%20-%2030%20rounds%20-%20Comstock/Smell%20Ya%20Later.PNG)
 
 WSB
 Stage: Smell Ya Later
