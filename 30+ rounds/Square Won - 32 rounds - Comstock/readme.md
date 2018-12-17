@@ -1,4 +1,4 @@
-![Square Won](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Smell%20Ya%20Later%20-%2030%20rounds%20-%20Comstock/Smell%20Ya%20Later.PNG)
+![Square Won](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Square%20Won%20-%2032%20rounds%20-%20Comstock/Square%20Won.PNG)
 
 WSB
 
