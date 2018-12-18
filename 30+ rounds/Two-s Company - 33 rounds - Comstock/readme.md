@@ -1,4 +1,4 @@
-![Square Won](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Square%20Won%20-%2032%20rounds%20-%20Comstock/Square%20Won.PNG)
+![Two's Company](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Two-s%20Company%20-%2033%20rounds%20-%20Comstock/Two's%20Company.png)
 
 WSB
 
