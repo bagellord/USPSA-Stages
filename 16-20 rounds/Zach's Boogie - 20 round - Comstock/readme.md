@@ -1,4 +1,4 @@
-![Zach's Boogie](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/The%20Hateful%20Plate%20-%2021%20Rounds%20-%20Comstock/The%20Hateful%20Plate.PNG)
+![Zach's Boogie](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Zach's%20Boogie%20-%2020%20round%20-%20Comstock/Zach's%20Boogie.png)
 
 WSB
 
