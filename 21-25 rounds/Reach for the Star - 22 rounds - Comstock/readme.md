@@ -1,8 +1,8 @@
-![Dishwater](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Dishwater%20-%2022%20rounds%20-%20Comstock/Dishwater.png)
+![Reach for the Star](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Reach%20for%20the%20Star%20-%2022%20rounds%20-%20Comstock/Reach%20for%20the%20Star.png)
 
 WSB
 
-Stage: Dishwater
+Stage: Reach for the Star
 
 Designer: Drew Coleman
 
