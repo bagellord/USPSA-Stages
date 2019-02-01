@@ -1,4 +1,4 @@
-![Keep on Spinning](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/The%20Hateful%20Plate%20-%2021%20Rounds%20-%20Comstock/The%20Hateful%20Plate.PNG)
+![Keep on Spinning](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Keep%20on%20Spinning%20-%2018%20rounds%20-%20Comstock/Keep%20on%20Spinning.png)
 
 WSB
 
