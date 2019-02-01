@@ -1,4 +1,4 @@
-![Size Matters](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/The%20Hateful%20Plate%20-%2021%20Rounds%20-%20Comstock/The%20Hateful%20Plate.PNG)
+![Size Matters](https://github.com/bagellord/USPSA-Stages/blob/master/11-15%20rounds/Size%20Matters%20-%2012%20rounds%20-%20Comstock/Size%20Matters.png)
 
 WSB
 
