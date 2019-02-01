@@ -1,4 +1,4 @@
-![Dishwater](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Dishwater/Dishwater.png)
+![Dishwater](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Dishwater%20-%2022%20rounds%20-%20Comstock/Dishwater.png)
 
 WSB
 
