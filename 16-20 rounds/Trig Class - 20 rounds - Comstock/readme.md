@@ -1,4 +1,4 @@
-![Trig Class](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/The%20Hateful%20Plate%20-%2021%20Rounds%20-%20Comstock/The%20Hateful%20Plate.PNG)
+![Trig Class](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Trig%20Class%20-%2020%20rounds%20-%20Comstock/Trig%20Class.png)
 
 WSB
 
