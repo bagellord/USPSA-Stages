@@ -17,5 +17,7 @@ Start position: standing with both feet on marks, outside the shooting area
 Pistol loaded and holstered, hands relaxed at sides. PCC shouldered and pointed at cone.
 
 Notes:
+
 Leftmost two plates should not be visible with the leftmost paper
+
 Rightmost two plates should not be visible with the pepper popper
