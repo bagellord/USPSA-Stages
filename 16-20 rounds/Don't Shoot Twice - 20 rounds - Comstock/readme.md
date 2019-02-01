@@ -1,4 +1,4 @@
-![Don't Shoot Twice](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/The%20Hateful%20Plate%20-%2021%20Rounds%20-%20Comstock/The%20Hateful%20Plate.PNG)
+![Don't Shoot Twice](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Don't%20Shoot%20Twice%20-%2020%20rounds%20-%20Comstock/Don't%20shoot%20twice.png)
 
 WSB
 
