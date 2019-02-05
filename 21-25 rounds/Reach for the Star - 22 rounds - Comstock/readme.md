@@ -1,4 +1,4 @@
-![Reach for the Star](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Ocean's%2011%20-%2022%20rounds%20-%20Comstock/Ocean's%2011.png)
+![Ocean's 11](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Ocean's%2011%20-%2022%20rounds%20-%20Comstock/Ocean's%2011.png)
 
 WSB
 
