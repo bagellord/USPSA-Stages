@@ -1,8 +1,8 @@
-![Reach for the Star](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Reach%20for%20the%20Star%20-%2022%20rounds%20-%20Comstock/Reach%20for%20the%20Star.png)
+![Reach for the Star](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Ocean's%2011%20-%2022%20rounds%20-%20Comstock/Ocean's%2011.png)
 
 WSB
 
-Stage: Reach for the Star
+Stage: Ocean's 11
 
 Designer: Drew Coleman
 
