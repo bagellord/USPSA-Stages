@@ -1,4 +1,4 @@
-![Flim Flam](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Two-s%20Company%20-%2033%20rounds%20-%20Comstock/Two's%20Company.png)
+![Flim Flam](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Flim%20Flam%20-%2026%20rounds%20-%20Comstock/Flim%20Flam.png)
 
 WSB
 
