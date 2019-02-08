@@ -1,4 +1,4 @@
-![Hooked on a Feeling](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Two-s%20Company%20-%2033%20rounds%20-%20Comstock/Two's%20Company.png)
+![Hooked on a Feeling](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Hooked%20on%20a%20Feeling/Hooked%20on%20a%20Feeling.png)
 
 WSB
 
