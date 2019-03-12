@@ -1,4 +1,4 @@
-![Knock Me Around](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Smell%20Ya%20Later%20-%2030%20rounds%20-%20Comstock/Smell%20Ya%20Later.PNG)
+![Knock Me Around](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Knock%20Me%20Around/Knock%20Me%20Around.png)
 
 WSB
 
