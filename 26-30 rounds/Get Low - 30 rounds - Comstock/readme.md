@@ -1,8 +1,8 @@
-![Smell Ya Later](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Smell%20Ya%20Later%20-%2030%20rounds%20-%20Comstock/Smell%20Ya%20Later.PNG)
+![Get Low](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Get%20Low%20-%2030%20rounds%20-%20Comstock/Get%20Low.png)
 
 WSB
 
-Stage: Smell Ya Later
+Stage: Get Low
 
 Designer: Drew Coleman
 
