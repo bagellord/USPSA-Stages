@@ -1,4 +1,4 @@
-![Keep on Spinning](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Hooked%20on%20a%20Feeling%20-%2034%20rounds%20-%20Comstock/Hooked%20on%20a%20Feeling.png)
+![Keep on Spinning](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Keep%20On%20Spinning%20-%20Comstock%20-%2032%20Rounds/Keep%20on%20Spinning.png)
 
 WSB
 
