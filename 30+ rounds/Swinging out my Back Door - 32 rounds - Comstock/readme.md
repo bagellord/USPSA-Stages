@@ -1,4 +1,4 @@
-![Swinging out my Back Door](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Two%20of%20Diamonds%20-%2032%20rounds%20-%20Comstock/Two%20of%20Diamonds.PNG)
+![Swinging out my Back Door](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Swinging%20out%20my%20Back%20Door%20-%2032%20rounds%20-%20Comstock/Swinging%20out%20my%20Back%20Door.png)
 
 <b>WSB</b>
 
@@ -12,6 +12,6 @@
 
 Best two on paper, steel must fall to score
 
-Start position: standing with both feet on either set of marks, outside the shooting area
+Start position: standing with toes touching marks
 
 Pistol loaded and holstered, hands relaxed at sides. PCC buttstock on belt pointed in a safe direction.
