@@ -12,6 +12,6 @@
 
 Best two on paper, steel must fall to score
 
-Start position: standing with both feet on either set of marks, outside the shooting area
+Start position: standing with toes touching marks
 
 Pistol loaded and holstered, hands relaxed at sides. PCC buttstock on belt pointed in a safe direction.
