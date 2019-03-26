@@ -1,4 +1,4 @@
-![Swinging out my Back Door](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Two%20of%20Diamonds%20-%2032%20rounds%20-%20Comstock/Two%20of%20Diamonds.PNG)
+![Swinging out my Back Door](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Swinging%20out%20my%20Back%20Door%20-%2032%20rounds%20-%20Comstock/Swinging%20out%20my%20Back%20Door.png)
 
 <b>WSB</b>
 
