@@ -1,4 +1,4 @@
-![30 Ought Six](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Hooked%20on%20a%20Feeling%20-%2034%20rounds%20-%20Comstock/Hooked%20on%20a%20Feeling.png)
+![30 Ought Six](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/30%20Ought%20Six%20-%2036%20Rounds%20-%20Comstock/30%20Ought%20Six.png)
 
 WSB
 
