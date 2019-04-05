@@ -1,4 +1,4 @@
-![Down on the Corner](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Don't%20Shoot%20Twice%20-%2020%20rounds%20-%20Comstock/Don't%20shoot%20twice.png)
+![Down on the Corner](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Down%20on%20the%20Corner%20-%2020%20rounds%20-%20Comstock/Down%20on%20the%20Corner.png)
 
 WSB
 
