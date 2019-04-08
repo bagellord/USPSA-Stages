@@ -1,4 +1,4 @@
-![Bob the Builder](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Hooked%20on%20a%20Feeling%20-%2034%20rounds%20-%20Comstock/Hooked%20on%20a%20Feeling.png)
+![Bob the Builder](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Bob%20the%20Builder%20-%2032%20Rounds%20-%20Comstock/Bob%20the%20Builder.png)
 
 WSB
 
