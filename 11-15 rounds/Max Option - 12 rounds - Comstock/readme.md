@@ -1,4 +1,4 @@
-![Max Option](https://github.com/bagellord/USPSA-Stages/blob/master/11-15%20rounds/Max Option%20-%2012%20rounds%20-%20Comstock/Max Option.png)
+![Max Option](https://github.com/bagellord/USPSA-Stages/blob/master/11-15%20rounds/Max%20Option%20-%2012%20rounds%20-%20Comstock/Max%20Option.png)
 
 WSB
 
