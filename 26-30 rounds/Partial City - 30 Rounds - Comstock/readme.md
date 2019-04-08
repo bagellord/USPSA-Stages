@@ -1,4 +1,4 @@
-![Partial City](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Smell%20Ya%20Later%20-%2030%20rounds%20-%20Comstock/Smell%20Ya%20Later.PNG)
+![Partial City](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Partial%20City%20-%2030%20Rounds%20-%20Comstock/Partial%20City.png)
 
 WSB
 
