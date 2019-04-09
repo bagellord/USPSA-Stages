@@ -1,4 +1,4 @@
-![Too Much Steel](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Swinging%20out%20my%20Back%20Door%20-%2032%20rounds%20-%20Comstock/Swinging%20out%20my%20Back%20Door.png)
+![Too Much Steel](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Too%20Much%20Steel%20-%2032%20rounds%20-%20Comstock/Too%20Much%20Steel.jpg)
 
 <b>WSB</b>
 
