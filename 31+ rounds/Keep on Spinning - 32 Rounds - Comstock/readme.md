@@ -1,4 +1,4 @@
-![Keep On Spinning](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Keep%20on%20Spinning%20-%2032%20Rounds%20-%20Comstock/Keep%20on%20Spinning.png)
+![Keep On Spinning](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Keep%20on%20Spinning%20-%2032%20Rounds%20-%20Comstock/Keep%20on%20Spinning.png)
 
 WSB
 
