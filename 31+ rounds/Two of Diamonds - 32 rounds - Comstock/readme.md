@@ -1,4 +1,4 @@
-![Two of Diamonds](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Two%20of%20Diamonds%20-%2032%20rounds%20-%20Comstock/Two%20of%20Diamonds.PNG)
+![Two of Diamonds](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Two%20of%20Diamonds%20-%2032%20rounds%20-%20Comstock/Two%20of%20Diamonds.PNG)
 
 <b>WSB</b>
 
