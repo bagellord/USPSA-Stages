@@ -1,4 +1,4 @@
-![The One](https://github.com/bagellord/USPSA-Stages/blob/master/10%20rounds%20and%20under/Measure%20Yourself/Measure%20Yourself.PNG)
+![The One](https://github.com/bagellord/USPSA-Stages/blob/master/10%20rounds%20and%20under/The%20One%20-%208%20rounds%20-%20Comstock/The%20One.png)
 
 WSB
 
