@@ -1,4 +1,4 @@
-![Bob and Weave](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Flim%20Flam%20-%2026%20rounds%20-%20Comstock/Flim%20Flam.png)
+![Bob and Weave](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Bob%20and%20Weave%20-%2028%20rounds%20-%20Comstock/Bob%20and%20Weave.jpg)
 
 WSB
 
