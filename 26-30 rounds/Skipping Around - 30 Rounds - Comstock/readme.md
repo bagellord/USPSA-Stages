@@ -1,4 +1,4 @@
-![Skipping Around](https://github.com/bagellord/USPSA-Stages/blob/master/30%2B%20rounds/Skipping%20Around%20-%2030%20Rounds%20-%20Comstock/Skipping%20Around.png)
+![Skipping Around](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Skipping%20Around%20-%2030%20Rounds%20-%20Comstock/Skipping%20Around.png)
 
 WSB
 
