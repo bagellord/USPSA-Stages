@@ -1,4 +1,4 @@
-![Wookie Noises](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Trig%20Class%20-%2020%20rounds%20-%20Comstock/Trig%20Class.png)
+![Wookie Noises](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Wookie%20Noises%20-%2018%20rounds%20-%20Comstock/wookie%20noises.png)
 
 WSB
 
