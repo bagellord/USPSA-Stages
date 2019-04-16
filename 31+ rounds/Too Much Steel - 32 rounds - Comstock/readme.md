@@ -1,4 +1,4 @@
-![Too Much Steel](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Too%20Much%20Steel%20-%2032%20rounds%20-%20Comstock/Too%20Much%20Steel.jpg)
+![Too Much Steel](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Too%20Much%20Steel%20-%2032%20rounds%20-%20Comstock/Too%20Much%20Steel%20v2.jpg)
 
 <b>WSB</b>
 
