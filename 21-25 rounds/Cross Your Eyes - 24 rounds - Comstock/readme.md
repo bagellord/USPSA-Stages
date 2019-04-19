@@ -1,4 +1,4 @@
-![Cross Your Eyes](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Cross%20Your%20Eyes%20-%2024%20rounds%20-%20-Comstock/Cross%20Your%20Eyes.png)
+![Cross Your Eyes](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Cross%20Your%20Eyes%20-%2024%20rounds%20-%20Comstock/Cross%20Your%20Eyes.png)
 
 WSB
 
@@ -12,7 +12,7 @@ Scoring: Comstock, 24 rounds
 
 Best two on paper, steel must fall to score
 
-Start position: Standing with both feet on X’s, facing uprange, wrists above respective shoulders.
+Start position: Standing with both feet on Xâ€™s, facing uprange, wrists above respective shoulders.
 
 Pistol loaded and holstered. PCC safety on, buttstock on belt, pointed at orange cone
 
