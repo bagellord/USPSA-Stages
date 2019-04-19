@@ -8,7 +8,7 @@ Designer: Drew Coleman
 
 Scoring: Comstock, 29 rounds
 
-11 paper, 7 steel
+12 paper, 5 steel
 
 Best two on paper, steel must fall to score
 
