@@ -6,7 +6,7 @@ Stage: <wookie noises>
 
 Designer: Drew Coleman
 
-Scoring: Comstock, 20 rounds
+Scoring: Comstock, 22 rounds
 
 8 paper, 2 steel
 
