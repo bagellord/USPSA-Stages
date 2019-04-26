@@ -1,4 +1,4 @@
-![Almost a Dan Stage](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Almost%20a%20Dan%20Stage%20-%2018%20rounds%20-%20Comstock/Almost%20a%20Dan%20Stage.png)
+![Almost a Dan Stage](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Almost%20a%20Dan%20Stage%20-%2018%20round%20s-%20Comstock/Almost%20a%20Dan%20Stage.png)
 
 WSB
 
