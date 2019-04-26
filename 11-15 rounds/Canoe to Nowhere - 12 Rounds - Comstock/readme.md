@@ -1,4 +1,4 @@
-![Canoe to Nowhere](https://github.com/bagellord/USPSA-Stages/blob/master/11-15%20rounds/Don't%20Worry%20About%20that%20Little%20Guy%20-%2012%20rounds%20-%20Comstock/Don't%20Worry%20About%20that%20Little%20Guy.png)
+![Canoe to Nowhere](https://github.com/bagellord/USPSA-Stages/blob/master/11-15%20rounds/Canoe%20to%20Nowhere%20-%2012%20Rounds%20-%20Comstock/Canoe%20to%20Nowhere.png)
 
 WSB
 
