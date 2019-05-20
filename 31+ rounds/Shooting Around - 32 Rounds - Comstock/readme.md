@@ -1,4 +1,4 @@
-![Shooting Around](https://github.com/bagellord/USPSA-Stages/blob/master/31+%20rounds/Get%20Moving%20-%2032%20rounds%20-%20Comstock/Get%20Moving.png)
+![Shooting Around](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Shooting%20Around%20-%2032%20Rounds%20-%20Comstock/Shooting%20Around.png)
 
 WSB
 
