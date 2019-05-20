@@ -1,4 +1,4 @@
-![Boomerang](https://github.com/bagellord/USPSA-Stages/blob/master/31+%20rounds/Boomerang%20-%2032%20rounds%20-%20Comstock/Boomerang.png)
+![Boomerang](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Boomerang%20-%2032%20Rounds%20-%20Comstock/Boomerang.png)
 
 WSB
 
