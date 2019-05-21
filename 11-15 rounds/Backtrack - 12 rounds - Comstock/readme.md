@@ -1,4 +1,4 @@
-![Backtrack](https://github.com/bagellord/USPSA-Stages/blob/master/11-15%20rounds/Backtrack%20-%2012%20Rounds%20-%20Comstock/Backtrack.png)
+![Backtrack](https://github.com/bagellord/USPSA-Stages/blob/master/11-15%20rounds/Backtrack%20-%2012%20rounds%20-%20Comstock/Backtrack.png)
 
 WSB
 
