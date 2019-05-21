@@ -1,4 +1,4 @@
-![Gone Crazy](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Gone%20Crazy%20-%2032%20Rounds%20-%20Comstock/Gone%20Crazy.png)
+![Gone Crazy](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Gone%20Crazy%20-%2036%20rounds%20-%20Comstock/Gone%20Crazy.png)
 
 WSB
 
