@@ -8,7 +8,7 @@
 
 <b>Scoring:</b> Comstock, 32 rounds
 
-<b>Targets:</b> 11 paper, 10 steel
+<b>Targets: </b> 11 paper, 10 steel
 
 Best two on paper, steel must fall to score
 

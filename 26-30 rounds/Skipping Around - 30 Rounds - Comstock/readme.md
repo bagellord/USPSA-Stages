@@ -8,7 +8,7 @@ WSB
 
 <b>Scoring:</b> Comstock, 30 rounds
 
-<b>Targets:</b>12 paper, 6 steel
+<b>Targets: </b>12 paper, 6 steel
 
 Best two on paper, steel must fall to score
 
