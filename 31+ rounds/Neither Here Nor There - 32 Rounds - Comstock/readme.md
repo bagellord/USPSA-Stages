@@ -1,4 +1,4 @@
-![That Darn Star](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/That%20Darn%20Star%20-%2032%20Rounds%20-%20Comstock/That%20Darn%20Star.png)
+![That Darn Star](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Neither%20Here%20Nor%20There%20-%2032%20Rounds%20-%20Comstock/Neither%20Here%20Nor%20There.png)
 
 <b>WSB</b>
 
