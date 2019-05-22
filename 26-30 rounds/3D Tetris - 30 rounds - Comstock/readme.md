@@ -10,7 +10,7 @@ WSB
 
 <b>Targets: </b>10 paper, 0 steel
 
-Best two on paper, steel must fall to score
+Best three on paper, steel must fall to score
 
 Start position: standing with both feet on marks
 
