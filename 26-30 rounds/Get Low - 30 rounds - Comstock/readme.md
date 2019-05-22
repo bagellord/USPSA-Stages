@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Get Low
+<b>Stage:</b> Get Low
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 30 rounds
+<b>Scoring:</b> Comstock, 30 rounds
 
-11 paper, 8 steel
+<b>Targets:</b>11 paper, 8 steel
 
 Best two on paper, steel must fall to score
 

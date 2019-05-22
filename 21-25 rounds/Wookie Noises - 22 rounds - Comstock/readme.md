@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: <wookie noises>
+<b>Stage:</b> <wookie noises>
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 22 rounds
+<b>Scoring:</b> Comstock, 22 rounds
 
-8 paper, 2 steel
+<b>Targets:</b>8 paper, 2 steel
 
 Best two on paper, steel must fall to score
 

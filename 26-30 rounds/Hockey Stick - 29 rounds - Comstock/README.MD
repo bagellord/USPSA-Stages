@@ -3,13 +3,13 @@
 
 WSB
 
-Stage: Hockey Stick
+<b>Stage:</b> Hockey Stick
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 29 rounds
+<b>Scoring:</b> Comstock, 29 rounds
 
-12 paper, 5 steel
+<b>Targets:</b>12 paper, 5 steel
 
 Best two on paper, steel must fall to score
 

@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: The One
+<b>Stage:</b> The One
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 8 rounds
+<b>Scoring:</b> Comstock, 8 rounds
 
-5 paper, 3 steel
+<b>Targets:</b>5 paper, 3 steel
 
 Best one on paper, steel must fall to score
 

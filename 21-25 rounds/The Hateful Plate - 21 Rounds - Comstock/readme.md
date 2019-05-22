@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: The Hateful Plate
+<b>Stage:</b> The Hateful Plate
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 21 rounds
+<b>Scoring:</b> Comstock, 21 rounds
 
-6 paper, 9 steel
+<b>Targets:</b>6 paper, 9 steel
 
 Best two on paper, steel must fall to score
 

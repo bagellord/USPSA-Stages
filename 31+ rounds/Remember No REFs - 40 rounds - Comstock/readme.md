@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Remember, No REF's
+<b>Stage:</b> Remember, No REF's
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 40 rounds
+<b>Scoring:</b> Comstock, 40 rounds
 
-16 paper, 8 Steel
+<b>Targets:</b>16 paper, 8 Steel
 
 Best two on paper, steel must fall to score
 

@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Backtrack
+<b>Stage:</b> Backtrack
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 12 rounds
+<b>Scoring:</b> Comstock, 12 rounds
 
-5 paper, 2 steel
+<b>Targets:</b>5 paper, 2 steel
 
 Best two on paper, steel must fall to score
 

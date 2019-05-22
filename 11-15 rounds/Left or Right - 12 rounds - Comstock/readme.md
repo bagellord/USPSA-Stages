@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Left or Right
+<b>Stage:</b> Left or Right
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 12 rounds
+<b>Scoring:</b> Comstock, 12 rounds
 
-2 paper, 8 steel
+<b>Targets:</b>2 paper, 8 steel
 
 Best two on paper, steel must fall to score
 

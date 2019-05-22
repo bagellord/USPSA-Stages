@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Measure Yourself
+<b>Stage:</b> Measure Yourself
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 10 rounds
+<b>Scoring:</b> Comstock, 10 rounds
 
-3 paper, 4 steel
+<b>Targets:</b>3 paper, 4 steel
 
 Best two on paper, steel must fall to score
 

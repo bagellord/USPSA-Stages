@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Foley Wants His Classifier Back
+<b>Stage:</b> Foley Wants His Classifier Back
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 24 rounds
+<b>Scoring:</b> Comstock, 24 rounds
 
-12 paper, 0 Steel
+<b>Targets:</b>12 paper, 0 Steel
 
 Best two on paper, steel must fall to score
 

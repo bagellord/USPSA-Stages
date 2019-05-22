@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Get Moving
+<b>Stage:</b> Get Moving
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 32 rounds
+<b>Scoring:</b> Comstock, 32 rounds
 
-16 paper, 0 Steel
+<b>Targets:</b>16 paper, 0 Steel
 
 Best two on paper, steel must fall to score
 

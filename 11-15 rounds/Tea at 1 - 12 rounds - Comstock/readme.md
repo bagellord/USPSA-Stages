@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Tea @ 1
+<b>Stage:</b> Tea @ 1
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 12 rounds
+<b>Scoring:</b> Comstock, 12 rounds
 
-5 paper, 7 steel
+<b>Targets:</b>5 paper, 7 steel
 
 Best one on paper, steel must fall to score
 

@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Bob the Builder
+<b>Stage:</b> Bob the Builder
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 32 rounds
+<b>Scoring:</b> Comstock, 32 rounds
 
-14 paper, 4 steel
+<b>Targets:</b>14 paper, 4 steel
 
 Best two on paper, steel must fall to score
 

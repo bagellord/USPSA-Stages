@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Reach for the Star
+<b>Stage:</b> Reach for the Star
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 18 rounds
+<b>Scoring:</b> Comstock, 18 rounds
 
-6 paper, 6 steel
+<b>Targets:</b>6 paper, 6 steel
 
 Best two on paper, steel must fall to score
 

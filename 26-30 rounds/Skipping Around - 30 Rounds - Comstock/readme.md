@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Skipping Around
+<b>Stage:</b> Skipping Around
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 30 rounds
+<b>Scoring:</b> Comstock, 30 rounds
 
-12 paper, 6 steel
+<b>Targets:</b>12 paper, 6 steel
 
 Best two on paper, steel must fall to score
 

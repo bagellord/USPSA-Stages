@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: 30 Ought Six
+<b>Stage:</b> 30 Ought Six
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 36 rounds
+<b>Scoring:</b> Comstock, 36 rounds
 
-15 paper, 6 steel
+<b>Targets:</b>15 paper, 6 steel
 
 Best two on paper, steel must fall to score
 

@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Smell Ya Later
+<b>Stage:</b> Smell Ya Later
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 30 rounds
+<b>Scoring:</b> Comstock, 30 rounds
 
-14 paper, 2 steel
+<b>Targets:</b>14 paper, 2 steel
 
 Best two on paper, steel must fall to score
 

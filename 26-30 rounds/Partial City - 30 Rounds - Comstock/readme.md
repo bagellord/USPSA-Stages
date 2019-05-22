@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Partial City
+<b>Stage:</b> Partial City
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 30 rounds
+<b>Scoring:</b> Comstock, 30 rounds
 
-15 paper, 0 steel
+<b>Targets:</b>15 paper, 0 steel
 
 Best two on paper, steel must fall to score
 

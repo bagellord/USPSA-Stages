@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Don't Shoot Twice
+<b>Stage:</b> Don't Shoot Twice
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 20 rounds
+<b>Scoring:</b> Comstock, 20 rounds
 
-8 paper, 4 steel
+<b>Targets:</b>8 paper, 4 steel
 
 Best two on paper, steel must fall to score
 

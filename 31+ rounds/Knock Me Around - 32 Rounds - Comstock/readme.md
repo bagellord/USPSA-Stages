@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Knock Me Around
+<b>Stage:</b> Knock Me Around
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 32 rounds
+<b>Scoring:</b> Comstock, 32 rounds
 
-16 paper, 0 steel
+<b>Targets:</b>16 paper, 0 steel
 
 Best two on paper, steel must fall to score
 

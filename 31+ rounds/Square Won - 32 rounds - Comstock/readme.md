@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Square Won
+<b>Stage:</b> Square Won
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 32 rounds
+<b>Scoring:</b> Comstock, 32 rounds
 
-13 paper, 6 steel
+<b>Targets:</b>13 paper, 6 steel
 
 Best two on paper, steel must fall to score
 

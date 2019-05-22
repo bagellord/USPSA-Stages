@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Two's Company
+<b>Stage:</b> Two's Company
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 33 rounds
+<b>Scoring:</b> Comstock, 33 rounds
 
-14 paper, 5 steel
+<b>Targets:</b>14 paper, 5 steel
 
 Best two on paper, steel must fall to score
 

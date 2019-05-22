@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Shooting Around
+<b>Stage:</b> Shooting Around
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 32 rounds
+<b>Scoring:</b> Comstock, 32 rounds
 
-13 paper, 6 Steel
+<b>Targets:</b>13 paper, 6 Steel
 
 Best two on paper, steel must fall to score
 

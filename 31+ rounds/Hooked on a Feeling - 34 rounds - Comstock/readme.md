@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Hooked on a Feeling
+<b>Stage:</b> Hooked on a Feeling
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 34 rounds
+<b>Scoring:</b> Comstock, 34 rounds
 
-15 paper, 4 steel
+<b>Targets:</b>15 paper, 4 steel
 
 Best two on paper, steel must fall to score
 

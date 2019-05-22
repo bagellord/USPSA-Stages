@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: This Old House
+<b>Stage:</b> This Old House
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 30 rounds
+<b>Scoring:</b> Comstock, 30 rounds
 
-12 paper, 6 steel
+<b>Targets:</b>12 paper, 6 steel
 
 Best two on paper, steel must fall to score
 

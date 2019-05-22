@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Motion Sickness
+<b>Stage:</b> Motion Sickness
 
-Designer: Daryl Shirah/Drew Coleman
+<b>Designer:</b> Daryl Shirah/Drew Coleman
 
-Scoring: Comstock, 16 rounds
+<b>Scoring:</b> Comstock, 16 rounds
 
-6 paper, 6 steel
+<b>Targets:</b>6 paper, 6 steel
 
 Best two on paper, steel must fall to score
 

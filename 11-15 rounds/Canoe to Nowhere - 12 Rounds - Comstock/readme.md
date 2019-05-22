@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Canoe to Nowhere
+<b>Stage:</b> Canoe to Nowhere
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 12 rounds
+<b>Scoring:</b> Comstock, 12 rounds
 
-4 paper, 4 steel
+<b>Targets:</b>4 paper, 4 steel
 
 Best two on paper, steel must fall to score
 

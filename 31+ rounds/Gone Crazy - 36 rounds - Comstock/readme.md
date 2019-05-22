@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Gone Crazy
+<b>Stage:</b> Gone Crazy
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 36 rounds
+<b>Scoring:</b> Comstock, 36 rounds
 
-16 paper, 4 Steel
+<b>Targets:</b>16 paper, 4 Steel
 
 Best two on paper, steel must fall to score
 

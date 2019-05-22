@@ -2,11 +2,11 @@
 
 WSB
 
-Stage: Ocean's 11
+<b>Stage:</b> Ocean's 11
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 22 rounds
+<b>Scoring:</b> Comstock, 22 rounds
 
 11 paper, 0
 

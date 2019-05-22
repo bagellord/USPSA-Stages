@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Bob and Weave
+<b>Stage:</b> Bob and Weave
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 28 rounds
+<b>Scoring:</b> Comstock, 28 rounds
 
-13 paper, 2 steel
+<b>Targets:</b>13 paper, 2 steel
 
 Best two on paper, steel must fall to score
 

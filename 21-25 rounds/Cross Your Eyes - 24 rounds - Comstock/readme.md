@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Cross Your Eyes
+<b>Stage:</b> Cross Your Eyes
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 24 rounds
+<b>Scoring:</b> Comstock, 24 rounds
 
-11 paper, 2 Steel
+<b>Targets:</b>11 paper, 2 Steel
 
 Best two on paper, steel must fall to score
 

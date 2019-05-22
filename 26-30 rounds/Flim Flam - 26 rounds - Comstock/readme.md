@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Flim Flam
+<b>Stage:</b> Flim Flam
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 26 rounds
+<b>Scoring:</b> Comstock, 26 rounds
 
-10 paper, 6 steel
+<b>Targets:</b>10 paper, 6 steel
 
 Best two on paper, steel must fall to score
 

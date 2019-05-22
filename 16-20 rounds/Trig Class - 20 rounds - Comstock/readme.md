@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Trig Class
+<b>Stage:</b> Trig Class
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 20 rounds
+<b>Scoring:</b> Comstock, 20 rounds
 
-8 paper, 4 steel
+<b>Targets:</b>8 paper, 4 steel
 
 Best two on paper, steel must fall to score
 

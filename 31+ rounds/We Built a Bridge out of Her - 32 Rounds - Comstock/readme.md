@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: We Built a Bridge out of Her
+<b>Stage:</b> We Built a Bridge out of Her
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 32 rounds
+<b>Scoring:</b> Comstock, 32 rounds
 
-12 paper, 8 steel
+<b>Targets:</b>12 paper, 8 steel
 
 Best two on paper, steel must fall to score
 

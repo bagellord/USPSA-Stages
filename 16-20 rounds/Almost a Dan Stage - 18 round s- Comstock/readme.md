@@ -2,13 +2,13 @@
 
 WSB
 
-Stage: Almost a Dan Stage
+<b>Stage:</b> Almost a Dan Stage
 
-Designer: Drew Coleman
+<b>Designer:</b> Drew Coleman
 
-Scoring: Comstock, 18 rounds
+<b>Scoring:</b> Comstock, 18 rounds
 
-7 paper, 4 steel
+<b>Targets:</b>7 paper, 4 steel
 
 Best two on paper, steel must fall to score
 
