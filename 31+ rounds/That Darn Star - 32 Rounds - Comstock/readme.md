@@ -1,4 +1,4 @@
-![That Darn Star](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Swinging%20out%20my%20Back%20Door%20-%2032%20rounds%20-%20Comstock/Swinging%20out%20my%20Back%20Door.png)
+![That Darn Star](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/That%20Darn%20Star%20-%2032%20Rounds%20-%20Comstock/That%20Darn%20Star.png)
 
 <b>WSB</b>
 
