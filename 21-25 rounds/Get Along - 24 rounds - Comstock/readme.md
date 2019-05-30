@@ -1,4 +1,4 @@
-![Get Along](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Foley%20Wants%20His%20Classifier%20Back%20-%2024%20Rounds%20-%20VA%20Count/Foley%20Wants%20his%20Classifier%20Back.png)
+![Get Along](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Get%20Along%20-%2024%20rounds%20-%20Comstock/Get%20Along.png)
 
 WSB
 
