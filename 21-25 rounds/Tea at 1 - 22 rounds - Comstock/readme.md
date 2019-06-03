@@ -1,4 +1,4 @@
-![Tea @ 1](https://github.com/bagellord/USPSA-Stages/blob/master/11-15%20rounds/Tea%20at%201%20-%2012%20rounds%20-%20Comstock/Tea%20at%201.png)
+![Tea @ 1](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Tea%20at%201%20-%2022%20rounds%20-%20Comstock/Tea%20at%201.png)
 
 WSB
 
@@ -6,11 +6,11 @@ WSB
 
 <b>Designer:</b> Drew Coleman
 
-<b>Scoring:</b> Comstock, 12 rounds
+<b>Scoring:</b> Comstock, 22 rounds
 
 <b>Targets: </b>5 paper, 7 steel
 
-Best one on paper, steel must fall to score
+Best three on paper, steel must fall to score
 
 Start position: standing with both heels on marks
 
