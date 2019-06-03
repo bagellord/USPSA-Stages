@@ -1,4 +1,4 @@
-![Backtrack](https://github.com/bagellord/USPSA-Stages/blob/master/11-15%20rounds/Backtrack%20-%2012%20rounds%20-%20Comstock/Backtrack.png)
+![Backtrack](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Backtrack%20-%2020%20rounds%20-%20Comstock/Backtrack.png)
 
 WSB
 
@@ -6,9 +6,9 @@ WSB
 
 <b>Designer:</b> Drew Coleman
 
-<b>Scoring:</b> Comstock, 12 rounds
+<b>Scoring:</b> Comstock, 20 rounds
 
-<b>Targets: </b>5 paper, 2 steel
+<b>Targets: </b>9 paper, 2 steel
 
 Best two on paper, steel must fall to score
 
