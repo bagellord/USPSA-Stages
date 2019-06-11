@@ -1,4 +1,4 @@
-![Speed Trap](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Speed%20Trap%20-%2032%20rounds%20-%20Comstock/Speed%20Trap.PNG)
+![Speed Trap](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Speed%20Trap%20-%2032%20Rounds%20-%20Comstock/Speed%20Trap.png)
 
 WSB
 
