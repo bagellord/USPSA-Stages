@@ -1,4 +1,4 @@
-![It's Okay to be Hateful](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Hockey%20Stick%20-%2029%20rounds%20-%20Comstock/Hockey%20Stick.PNG)
+![It's Okay to be Hateful](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/It's%20Okay%20to%20be%20Hateful%20-%2026%20rounds%20-%20Comstock/It's%20Okay%20to%20be%20Hateful.png)
 
 
 WSB
