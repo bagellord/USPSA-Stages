@@ -1,4 +1,4 @@
-![Hanging Around](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/It's%20Okay%20to%20be%20Hateful%20-%2026%20rounds%20-%20Comstock/It's%20Okay%20to%20be%20Hateful.png)
+![Hanging Around](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Hanging%20Around%20-%2024%20Rounds%20-%20Comstock/Hanging%20Around.png)
 
 
 WSB
