@@ -1,4 +1,4 @@
-![Sick and Twisted](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Skipping%20Around%20-%2030%20Rounds%20-%20Comstock/Skipping%20Around.png)
+![Sick and Twisted](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Sick%20and%20Twisted/Sick%20and%20Twisted.png)
 
 WSB
 
