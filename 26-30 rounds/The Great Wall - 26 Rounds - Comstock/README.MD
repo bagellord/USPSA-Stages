@@ -1,4 +1,4 @@
-![The Great Wall](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Hockey%20Stick%20-%2029%20rounds%20-%20Comstock/Hockey%20Stick.PNG)
+![The Great Wall](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/The%20Great%20Wall%20-%2026%20Rounds%20-%20Comstock/The%20Great%20Wall.png)
 
 
 WSB
