@@ -12,15 +12,11 @@ WSB
 
 Best four on paper, steel must fall to score
 
-Start position: Hands relaxed at sides, outside the shooting area. String 1: standing on either set of X's. String 2: standing on opposite set of X's.
+Start position: Hands relaxed at sides, outside the shooting area. Standing on either set of X's
 
 Pistol loaded and holstered. PCC shouldered, safety on, pointed at orange cone
 
-STAGE PROCEDURE:
-
-String 1: Engage each each target with only two rounds each, perform a mandatory reload, and engage each target with two rounds each. Last 6 shots must be strong hand only
-
-String 2: Engage each each target with only two rounds each, perform a mandatory reload, and engage each target with two rounds each. Last 6 shots must be weak hand only
+STAGE PROCEDURE: Engage each each target with only two rounds each, perform a mandatory reload, and engage each target with two rounds each. Last 6 shots must be strong hand only
 
 RULES:
 
