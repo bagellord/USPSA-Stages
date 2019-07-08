@@ -1,4 +1,4 @@
-![Pain for Dinner](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Neither%20Here%20Nor%20There%20-%2032%20Rounds%20-%20Comstock/Neither%20Here%20Nor%20There.png)
+![Pain for Dinner](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Pain%20for%20Dinner%20-%2032%20rounds%20-%20Comstock/Pain%20for%20Dinner.png)
 
 <b>WSB</b>
 
