@@ -1,4 +1,4 @@
-![Turtles Everywhere](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Two%20of%20Diamonds%20-%2032%20rounds%20-%20Comstock/Two%20of%20Diamonds.PNG)
+![Turtles Everywhere](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Coast%20to%20Coast%20-%2024%20rounds%20-%20Comstock/Coast%20to%20Coast.png)
 
 <b>WSB</b>
 
