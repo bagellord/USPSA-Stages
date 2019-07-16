@@ -1,4 +1,4 @@
-![Speed Check](Speed Check.png)
+![Speed Check](Stage%20Design.png)
 
 WSB
 
