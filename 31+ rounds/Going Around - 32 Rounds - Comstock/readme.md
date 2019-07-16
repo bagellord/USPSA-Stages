@@ -1,4 +1,4 @@
-![Going Around](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Going%20Around%20-%2032%20Rounds%20-%20Comstock/Going%20Around.png)
+![Going Around](Stage%20Design.png)
 
 WSB
 

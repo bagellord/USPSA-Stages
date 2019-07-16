@@ -1,4 +1,4 @@
-![All L Shaped](https://github.com/bagellord/USPSA-Stages/blob/master/11-15%20rounds/All%20L%20Shaped%20-%2012%20Rounds%20-%20Comstock/All%20L%20Shaped.png)
+![All L Shaped](Stage%20Design.png)
 
 WSB
 

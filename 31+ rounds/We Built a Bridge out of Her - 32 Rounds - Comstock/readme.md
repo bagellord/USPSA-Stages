@@ -1,4 +1,4 @@
-![We Built a Bridge out of Her](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/We%20Built%20a%20Bridge%20out%20of%20Her%20-%2032%20Rounds%20-%20Comstock/We%20Built%20a%20Bridge%20out%20of%20Her.png)
+![We Built a Bridge out of Her](Stage%20Design.png)
 
 WSB
 

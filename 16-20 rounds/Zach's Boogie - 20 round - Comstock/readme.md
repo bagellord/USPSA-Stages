@@ -1,4 +1,4 @@
-![Zach's Boogie](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Zach's%20Boogie%20-%2020%20round%20-%20Comstock/Zach's%20Boogie.png)
+![Zach's Boogie](Stage%20Design.png)
 
 WSB
 

@@ -1,4 +1,4 @@
-![Measure Yourself](https://github.com/bagellord/USPSA-Stages/blob/master/10%20rounds%20and%20under/Measure%20Yourself/Measure%20Yourself.PNG)
+![Measure Yourself](Stage%20Design.png)
 
 WSB
 

@@ -1,4 +1,4 @@
-![This Old House](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/This%20Old%20House%20-%2030%20Rounds%20-%20Comstock/This%20Old%20House.png)
+![This Old House](Stage%20Design.png)
 
 WSB
 

@@ -1,4 +1,4 @@
-![Step into my Office](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Step%20into%20my%20Office%20-%2030%20rounds%20-%20Comstock/Step%20into%20my%20Office.png)
+![Step into my Office](Stage%20Design.png)
 
 WSB
 

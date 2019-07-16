@@ -1,4 +1,4 @@
-![Shooting Around](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Shooting%20Around%20-%2032%20Rounds%20-%20Comstock/Shooting%20Around.png)
+![Shooting Around](Stage%20Design.png)
 
 WSB
 

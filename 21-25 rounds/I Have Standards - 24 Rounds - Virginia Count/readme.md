@@ -1,4 +1,4 @@
-![I Have Standards](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/I%20Have%20Standards%20-%2024%20Rounds%20-%20Virginia%20Count/I%20Have%20Standards.png)
+![I Have Standards](Stage%20Design.png)
 
 WSB
 

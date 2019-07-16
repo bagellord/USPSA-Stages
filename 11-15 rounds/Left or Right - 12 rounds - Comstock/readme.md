@@ -1,4 +1,4 @@
-![Left or Right](https://github.com/bagellord/USPSA-Stages/blob/master/11-15%20rounds/Left%20or%20Right%20-%2012%20rounds%20-%20Comstock/Left%20or%20Right.png)
+![Left or Right](Stage%20Design.png)
 
 WSB
 

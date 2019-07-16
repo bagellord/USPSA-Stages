@@ -1,4 +1,4 @@
-![Reach for the Star](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Reach%20for%20the%20Star%20-%2018%20rounds%20-%20Comstock/Reach%20for%20the%20Star.png)
+![Reach for the Star](Stage%20Design.png)
 
 WSB
 

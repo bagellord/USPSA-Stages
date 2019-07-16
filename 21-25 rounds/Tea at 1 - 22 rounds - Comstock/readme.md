@@ -1,4 +1,4 @@
-![Tea @ 1](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Tea%20at%201%20-%2022%20rounds%20-%20Comstock/Tea%20at%201.png)
+![Tea @ 1](Stage%20Design.png)
 
 WSB
 

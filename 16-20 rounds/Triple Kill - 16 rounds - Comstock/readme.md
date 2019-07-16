@@ -1,4 +1,4 @@
-![Triple Kill](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Triple%20Kill%20-%2016%20rounds%20-%20Comstock/Triple%20Kill.png)
+![Triple Kill](Stage%20Design.png)
 
 WSB
 

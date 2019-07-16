@@ -1,4 +1,4 @@
-![Canoe to Nowhere](https://github.com/bagellord/USPSA-Stages/blob/master/11-15%20rounds/Canoe%20to%20Nowhere%20-%2012%20Rounds%20-%20Comstock/Canoe%20to%20Nowhere.png)
+![Canoe to Nowhere](Stage%20Design.png)
 
 WSB
 

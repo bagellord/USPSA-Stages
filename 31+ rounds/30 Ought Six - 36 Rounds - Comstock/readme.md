@@ -1,4 +1,4 @@
-![30 Ought Six](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/30%20Ought%20Six%20-%2036%20Rounds%20-%20Comstock/30%20Ought%20Six.png)
+![30 Ought Six](Stage%20Design.png)
 
 WSB
 

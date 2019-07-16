@@ -1,4 +1,4 @@
-![Turtle Standards](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Turtle%20Standards/Turtle%20Standards.png)
+![Turtle Standards](Stage%20Design.png)
 
 WSB
 

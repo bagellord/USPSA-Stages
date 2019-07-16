@@ -1,4 +1,4 @@
-![Dot the I](https://github.com/bagellord/USPSA-Stages/blob/master/11-15%20rounds/Dot%20the%20I%20-%2012%20rounds%20-%20Comstock/Dot%20the%20I.png)
+![Dot the I](Stage%20Design.png)
 
 WSB
 

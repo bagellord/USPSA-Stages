@@ -1,4 +1,4 @@
-![Foley Wants His Classifier Back](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Foley%20Wants%20His%20Classifier%20Back%20-%2024%20Rounds%20-%20VA%20Count/Foley%20Wants%20his%20Classifier%20Back.png)
+![Foley Wants His Classifier Back](Stage%20Design.png)
 
 WSB
 

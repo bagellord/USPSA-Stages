@@ -1,4 +1,4 @@
-![Tetris](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Tetris%20-%2020%20rounds%20-%20Comstock/Tetris.png)
+![Tetris](Stage%20Design.png)
 
 WSB
 

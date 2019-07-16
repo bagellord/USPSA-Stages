@@ -1,4 +1,4 @@
-![Trig Class](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Trig%20Class%20-%2020%20rounds%20-%20Comstock/Trig%20Class.png)
+![Trig Class](Stage%20Design.png)
 
 WSB
 

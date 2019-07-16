@@ -1,4 +1,4 @@
-![Square Won](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Square%20Won%20-%2032%20rounds%20-%20Comstock/Square%20Won.PNG)
+![Square Won](Stage%20Design.png)
 
 WSB
 

@@ -1,4 +1,4 @@
-![Swing and a Miss](https://github.com/bagellord/USPSA-Stages/blob/master/11-15%20rounds/Swing%20and%20a%20Miss%20-%2015%20rounds%20-%20Comstock/Swing%20and%20a%20Miss.png)
+![Swing and a Miss](Stage%20Design.png)
 
 WSB
 

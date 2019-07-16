@@ -1,4 +1,4 @@
-![Pain for Dinner](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Pain%20for%20Dinner%20-%2032%20rounds%20-%20Comstock/Pain%20for%20Dinner.png)
+![Pain for Dinner](Stage%20Design.png)
 
 <b>WSB</b>
 

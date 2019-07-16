@@ -1,4 +1,4 @@
-![Don't Shoot Twice](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Don't%20Shoot%20Twice%20-%2020%20rounds%20-%20Comstock/Don't%20shoot%20twice.png)
+![Don't Shoot Twice](Stage%20Design.png)
 
 WSB
 

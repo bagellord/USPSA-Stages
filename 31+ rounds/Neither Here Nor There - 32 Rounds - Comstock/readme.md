@@ -1,4 +1,4 @@
-![Neither here nor there](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Neither%20Here%20Nor%20There%20-%2032%20Rounds%20-%20Comstock/Neither%20Here%20Nor%20There.png)
+![Neither here nor there](Stage%20Design.png)
 
 <b>WSB</b>
 

@@ -1,4 +1,4 @@
-![Sick and Twisted](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Sick%20and%20Twisted/Sick%20and%20Twisted.png)
+![Sick and Twisted](Stage%20Design.png)
 
 WSB
 

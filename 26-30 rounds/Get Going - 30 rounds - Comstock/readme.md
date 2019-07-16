@@ -1,4 +1,4 @@
-![Get Going](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Get%20Going%20-%2030%20rounds%20-%20Comstock/Get%20Going.png)
+![Get Going](Stage%20Design.png)
 
 WSB
 

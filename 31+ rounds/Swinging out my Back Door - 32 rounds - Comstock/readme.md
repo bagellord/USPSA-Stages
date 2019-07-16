@@ -1,4 +1,4 @@
-![Swinging out my Back Door](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Swinging%20out%20my%20Back%20Door%20-%2032%20rounds%20-%20Comstock/Swinging%20out%20my%20Back%20Door.png)
+![Swinging out my Back Door](Stage%20Design.png)
 
 <b>WSB</b>
 

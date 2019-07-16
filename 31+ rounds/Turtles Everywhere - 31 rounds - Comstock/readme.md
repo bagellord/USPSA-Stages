@@ -1,4 +1,4 @@
-![Turtles Everywhere](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Turtles%20Everywhere%20-%2031%20rounds%20-%20Comstock/Turtles%20Everywhere.png)
+![Turtles Everywhere](Stage%20Design.png)
 
 <b>WSB</b>
 

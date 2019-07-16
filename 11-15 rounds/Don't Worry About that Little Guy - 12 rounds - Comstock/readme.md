@@ -1,4 +1,4 @@
-![Don't Worry About that Little Guy](https://github.com/bagellord/USPSA-Stages/blob/master/11-15%20rounds/Don't%20Worry%20About%20that%20Little%20Guy%20-%2012%20rounds%20-%20Comstock/Don't%20Worry%20About%20that%20Little%20Guy.png)
+![Don't Worry About that Little Guy](Stage%20Design.png)
 
 WSB
 

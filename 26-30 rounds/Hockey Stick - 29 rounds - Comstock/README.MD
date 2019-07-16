@@ -1,4 +1,4 @@
-![Hockey Stick](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Hockey%20Stick%20-%2029%20rounds%20-%20Comstock/Hockey%20Stick.PNG)
+![Hockey Stick](Stage%20Design.png)
 
 
 WSB

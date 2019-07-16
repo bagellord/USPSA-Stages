@@ -1,4 +1,4 @@
-![Two's Company](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Two-s%20Company%20-%2033%20rounds%20-%20Comstock/Two's%20Company.png)
+![Two's Company](Stage%20Design.png)
 
 WSB
 

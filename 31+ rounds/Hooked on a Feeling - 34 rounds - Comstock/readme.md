@@ -1,4 +1,4 @@
-![Hooked on a Feeling](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Hooked%20on%20a%20Feeling%20-%2034%20rounds%20-%20Comstock/Hooked%20on%20a%20Feeling.png)
+![Hooked on a Feeling](Stage%20Design.png)
 
 WSB
 

@@ -1,4 +1,4 @@
-![Wookie Noises](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Wookie%20Noises%20-%2022%20rounds%20-%20Comstock/wookie%20noises.png)
+![Wookie Noises](Stage%20Design.png)
 
 WSB
 

@@ -1,4 +1,4 @@
-![Flim Flam](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Flim%20Flam%20-%2026%20rounds%20-%20Comstock/Flim%20Flam.png)
+![Flim Flam](Stage%20Design.png)
 
 WSB
 

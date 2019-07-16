@@ -1,4 +1,4 @@
-![Side Step](https://github.com/bagellord/USPSA-Stages/blob/master/11-15%20rounds/Side%20Step%20-%2012%20rounds%20-%20Comstock/Side%20Step.png)
+![Side Step](Stage%20Design.png)
 
 WSB
 

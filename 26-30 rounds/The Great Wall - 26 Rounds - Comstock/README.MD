@@ -1,4 +1,4 @@
-![The Great Wall](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/The%20Great%20Wall%20-%2026%20Rounds%20-%20Comstock/The%20Great%20Wall.png)
+![The Great Wall](Stage%20Design.png)
 
 
 WSB

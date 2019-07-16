@@ -1,4 +1,4 @@
-![Gotta Go Fast](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Gotta%20Go%20Fast%20-%2016%20Rounds%20-%20Comstock/Gotta%20Go%20Fast.png)
+![Gotta Go Fast](Stage%20Design.png)
 
 
 WSB

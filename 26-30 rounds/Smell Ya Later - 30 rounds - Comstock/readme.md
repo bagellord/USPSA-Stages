@@ -1,4 +1,4 @@
-![Smell Ya Later](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Smell%20Ya%20Later%20-%2030%20rounds%20-%20Comstock/Smell%20Ya%20Later.PNG)
+![Smell Ya Later](Stage%20Design.png)
 
 WSB
 

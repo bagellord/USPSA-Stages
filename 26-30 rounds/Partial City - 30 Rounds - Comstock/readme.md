@@ -1,4 +1,4 @@
-![Partial City](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Partial%20City%20-%2030%20Rounds%20-%20Comstock/Partial%20City.png)
+![Partial City](Stage%20Design.png)
 
 WSB
 

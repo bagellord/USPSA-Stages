@@ -1,4 +1,4 @@
-![Remember, No REF's](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Remember%20No%20REFs%20-%2040%20rounds%20-%20Comstock/Remember%2C%20No%20Refs.png)
+![Remember, No REF's](Stage%20Design.png)
 
 WSB
 

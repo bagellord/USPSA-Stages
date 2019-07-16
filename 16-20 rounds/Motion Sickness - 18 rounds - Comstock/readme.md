@@ -1,4 +1,4 @@
-![Motion Sickness](https://github.com/bagellord/USPSA-Stages/blob/master/16-20%20rounds/Motion%20Sickness%20-%2018%20rounds%20-%20Comstock/Motion%20Sickness.png)
+![Motion Sickness](Stage%20Design.png)
 
 WSB
 

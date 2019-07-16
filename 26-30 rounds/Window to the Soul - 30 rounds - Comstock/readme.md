@@ -1,4 +1,4 @@
-![Window to the Soul](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Window%20to%20the%20Soul%20-%2030%20rounds%20-%20Comstock/Window%20to%20the%20Soul.png)
+![Window to the Soul](Stage%20Design.png)
 
 WSB
 

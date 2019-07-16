@@ -1,4 +1,4 @@
-![Cross Your Eyes](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Cross%20Your%20Eyes%20-%2024%20rounds%20-%20Comstock/Cross%20Your%20Eyes.png)
+![Cross Your Eyes](Stage%20Design.png)
 
 WSB
 

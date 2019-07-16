@@ -1,4 +1,4 @@
-![Mucking About](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Mucking%20About%20-%2029%20rounds%20-%20Comstock/Mucking%20About.png)
+![Mucking About](Stage%20Design.png)
 
 WSB
 

@@ -1,4 +1,4 @@
-![Bob the Builder](https://github.com/bagellord/USPSA-Stages/blob/master/31%2B%20rounds/Bob%20the%20Builder%20-%2032%20Rounds%20-%20Comstock/Bob%20the%20Builder%20v2.png)
+![Bob the Builder](Stage%20Design.png)
 
 WSB
 

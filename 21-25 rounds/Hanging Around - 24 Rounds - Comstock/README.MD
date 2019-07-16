@@ -1,4 +1,4 @@
-![Hanging Around](https://github.com/bagellord/USPSA-Stages/blob/master/21-25%20rounds/Hanging%20Around%20-%2024%20Rounds%20-%20Comstock/Hanging%20Around.png)
+![Hanging Around](Stage%20Design.png)
 
 
 WSB
