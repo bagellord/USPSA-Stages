@@ -1,4 +1,4 @@
-![Speed Check](Speed%20Check.png)
+![Speed Check](Speed Check.png)
 
 WSB
 
