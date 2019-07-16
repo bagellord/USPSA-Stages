@@ -1,4 +1,4 @@
-![Window to the Soul](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/This%20Old%20House%20-%2030%20Rounds%20-%20Comstock/This%20Old%20House.png)
+![Window to the Soul](https://github.com/bagellord/USPSA-Stages/blob/master/26-30%20rounds/Window%20to%20the%20Soul%20-%2030%20rounds%20-%20Comstock/Window%20to%20the%20Soul.png)
 
 WSB
 
