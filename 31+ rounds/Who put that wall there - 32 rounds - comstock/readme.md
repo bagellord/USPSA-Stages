@@ -12,6 +12,8 @@ WSB
 
 Best two on paper, steel must fall to score
 
-Start position: Anywhere inside the shooting area
+Start position: Standing with both feet on X's.
 
-Pistol loaded and holstered, hands relaxed at sides. PCC shouldered and pointed at a wall.
+Pistol loaded and holstered, hands relaxed at sides. PCC shouldered and pointed at a ammo can.
+
+Stomp box must be activated by PLACING the ammo can on it.
